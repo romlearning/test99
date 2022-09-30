@@ -3,7 +3,7 @@
 using namespace std;
 
 int func() {
-	cout << "func1" << endl;
+	cout << "func3" << endl;
 	return 0;
 }
 
