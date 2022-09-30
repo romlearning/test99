@@ -2,8 +2,13 @@
 
 using namespace std;
 
-int main() {
+int func() {
+	cout << "func" << endl;
+	return 0;
+}
 
+int main() {
+	func();
 	return 0;
 }
 
